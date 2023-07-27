@@ -1,0 +1,172 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": true
+    },
+    {
+      "id": 4,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": true
+    },
+    {
+      "id": 5,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": false
+    },
+    {
+      "id": 6,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": false
+    },
+    {
+      "id": 7,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": false
+    },
+    {
+      "id": 8,
+      "title": "News Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "news",
+      "active": false
+    },
+    {
+      "id": 9,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": true
+    },
+    {
+      "id": 10,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": true
+    },
+    {
+      "id": 11,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": true
+    },
+    {
+      "id": 12,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": true
+    },
+    {
+      "id": 13,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": false
+    },
+    {
+      "id": 14,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": false
+    },
+    {
+      "id": 15,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": false
+    },
+    {
+      "id": 16,
+      "title": "Politic Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "politic",
+      "active": false
+    },
+    {
+      "id": 17,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": true
+    },
+    {
+      "id": 18,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": true
+    },
+    {
+      "id": 19,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": true
+    },
+    {
+      "id": 20,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": true
+    },
+    {
+      "id": 21,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": false
+    },
+    {
+      "id": 22,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": false
+    },
+    {
+      "id": 23,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": false
+    },
+    {
+      "id": 24,
+      "title": "Education Title",
+      "body": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+      "type": "education",
+      "active": false
+    }
+  ]
+}
